@@ -14,13 +14,6 @@ BORDER
 
 So it would appear something like...
 
-================= Notice ! ====================
- > Did you know you can't breath underwater?
- > Unicorns do not exist, contrary to popular
-   belief.
- > Once I ate a pen, I have forgotten that day.
-===============================================
-
 Could also make specific messages and then tell them to be deleted after x amount of time.
 
 So a message talking about recent events or something, like "Happy Christmas!" or "20% Discount for this week only!"
