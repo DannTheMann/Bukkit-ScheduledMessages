@@ -1,0 +1,9 @@
+name: ScheduledMessager
+version: 1_c
+main: org.hcraid.com.scheduledmessages.Main
+author: danslayerx
+description: Allows removable messages that announce on the server.
+commands:
+   sch:
+      description: scheduler commands
+      aliases: [sch, scheduler]
